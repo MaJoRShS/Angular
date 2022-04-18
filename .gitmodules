@@ -1,0 +1,6 @@
+[submodule "angularLoiane"]
+	path = angularLoiane
+	url = git@github.com:MaJoRShS/angularLoiane.git
+[submodule "angularAlura"]
+	path = angularAlura
+	url = git@github.com:MaJoRShS/angularAlura.git
